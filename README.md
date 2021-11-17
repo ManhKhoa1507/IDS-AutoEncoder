@@ -7,6 +7,7 @@
 
 ## Note
     The model use the KDDTrain+ for training and testing phased
+    Use pandas, numpy, pickles, sk-learn, keras, ... 
 
 ## Contribution 
     h3des, Hoàng đã khác, Nev
